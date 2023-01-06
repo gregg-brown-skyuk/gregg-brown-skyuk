@@ -1,6 +1,7 @@
 # Intro
 
-- 👋 Hi, I’m Gregg, Cost Assurance Analyst for Sky UK
+- 👋 Hi, I’m Gregg.
+- 💼 I am an Application Support Engineer for Sky UK.
 - 👀 I’m interested in process automation, tools development.
 - 🌱 I’m currently learning Python, Ruby, JS, C++.
 - 💞️ I’m looking to collaborate on some fun and interesting projects.
